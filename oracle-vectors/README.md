@@ -36,6 +36,7 @@ El notebook `notebooks/embeddings_workflow.ipynb` documenta el flujo completo:
 ```
 
 El contenedor queda disponible en `localhost:1522`.
+La primera ejecución descarga la imagen Docker e inicializa el usuario `vec`; puede tomar varios minutos.
 
 Credenciales:
 
@@ -57,6 +58,8 @@ Este comando:
 4. Importa `embeddings/news_embeddings.json` con `python/import_news_embeddings.py`.
 5. Importa `embeddings/query_embeddings.json` con `python/import_query_embeddings.py`.
 
+Los JSON ya están incluidos en el repositorio. Por eso no es necesario ejecutar el notebook para cargar la base; el notebook solo se usa si se quieren regenerar la muestra y los embeddings.
+
 ## Ejecutar consultas
 
 ```bash
@@ -73,6 +76,36 @@ Para guardar la salida:
 
 ```bash
 ./run_query.sh sql/02_vector_queries.sql > results/query_output.txt
+```
+
+## Dependencias Python
+
+El archivo `python/requirements.txt` contiene las dependencias para los dos flujos:
+
+| Paquete | Uso |
+| --- | --- |
+| `oracledb` | Conexión desde Python hacia Oracle. |
+| `numpy` | Conversión de listas a `FLOAT32` para insertar vectores. |
+| `pandas` | Preparación de datos en el notebook. |
+| `sentence-transformers` | Generación de embeddings en el notebook. |
+
+Si solo se cargan los JSON ya generados, los scripts de importación usan `oracledb` y `numpy`. `run_embed.sh` instala todo el archivo de requisitos para que el entorno también sirva al notebook.
+
+## Variables útiles
+
+Los scripts usan estos valores por defecto:
+
+```text
+DB_USER=vec
+DB_PASS=Vec123
+DB_DSN=localhost:1522/FREEPDB1
+```
+
+Se pueden sobrescribir así:
+
+```bash
+DB_USER=vec DB_PASS=Vec123 DB_DSN=localhost:1522/FREEPDB1 ./run_embed.sh
+DB_USER=vec DB_PASS=Vec123 ./run_query.sh
 ```
 
 ## Validación rápida

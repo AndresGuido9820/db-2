@@ -18,4 +18,4 @@ if [[ ! -f "$SQL_FILE" ]]; then
 fi
 
 docker cp "$SQL_FILE" oracle-vectors:/tmp/query.sql
-docker exec oracle-vectors sqlplus -S vec/Vec123@FREEPDB1 @/tmp/query.sql
+docker exec oracle-vectors sqlplus -S "${DB_USER:-vec}/${DB_PASS:-Vec123}@FREEPDB1" @/tmp/query.sql

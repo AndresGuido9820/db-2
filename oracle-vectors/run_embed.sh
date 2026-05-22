@@ -11,7 +11,7 @@ else
 fi
 
 echo "==> Creando tablas..."
-docker exec -i oracle-vectors sqlplus vec/Vec123@FREEPDB1 < sql/01_schema.sql
+docker exec -i oracle-vectors sqlplus "${DB_USER:-vec}/${DB_PASS:-Vec123}@FREEPDB1" < sql/01_schema.sql
 
 echo "==> Importando 200 articulos..."
 python3 python/import_news_embeddings.py

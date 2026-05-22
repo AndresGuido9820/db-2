@@ -11,9 +11,9 @@ import os
 import numpy as np
 import oracledb
 
-DB_USER = "vec"
-DB_PASSWORD = "Vec123"
-DB_DSN = "localhost:1522/FREEPDB1"
+DB_USER = os.getenv("DB_USER", "vec")
+DB_PASSWORD = os.getenv("DB_PASS", "Vec123")
+DB_DSN = os.getenv("DB_DSN", "localhost:1522/FREEPDB1")
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 JSON_PATH = os.path.join(BASE_DIR, "embeddings", "query_embeddings.json")

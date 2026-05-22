@@ -8,8 +8,10 @@ Repositorio con las dos partes del Trabajo 1:
 ## Requisitos
 
 - Docker
-- Docker Compose
+- Docker Compose v2 (`docker compose`)
 - Python 3.10 o superior
+- Bash
+- Acceso a internet solo si se quiere regenerar el notebook de embeddings desde cero
 
 ## Estructura
 
@@ -51,6 +53,8 @@ cd plsql
 ./pipeline.sh
 ```
 
+La primera ejecución de `./start.sh` puede tardar varios minutos porque Docker descarga la imagen `gvenzl/oracle-xe:21-slim` e inicializa la base.
+
 Para ejecutar un script específico:
 
 ```bash
@@ -68,6 +72,13 @@ Credenciales locales:
 | `system` | `Oracle123` |
 | `dev` | `Dev123` |
 
+Validación rápida:
+
+```bash
+cd plsql
+./run.sh sql/ejemplo_basico.sql
+```
+
 ## Punto 2: Oracle Vector
 
 Desde la carpeta `oracle-vectors`:
@@ -78,6 +89,9 @@ cd oracle-vectors
 ./run_embed.sh
 ./run_query.sh
 ```
+
+La primera ejecución de `./start.sh` puede tardar varios minutos porque Docker descarga la imagen `gvenzl/oracle-free:23-slim` e inicializa Oracle Free.
+`./run_embed.sh` crea `.venv/` e instala las dependencias de `oracle-vectors/python/requirements.txt`.
 
 El notebook `oracle-vectors/notebooks/embeddings_workflow.ipynb` es la fuente principal del flujo de datos:
 
@@ -93,6 +107,19 @@ Credenciales locales:
 | Usuario | Password | DSN |
 | --- | --- | --- |
 | `vec` | `Vec123` | `localhost:1522/FREEPDB1` |
+
+Validación rápida:
+
+```bash
+cd oracle-vectors
+docker exec -i oracle-vectors sqlplus -S vec/Vec123@FREEPDB1 <<'SQL'
+SELECT COUNT(*) AS news_count FROM news_articles;
+SELECT COUNT(*) AS query_count FROM query_vectors;
+EXIT;
+SQL
+```
+
+El resultado esperado es `news_count = 200` y `query_count = 8`.
 
 ## Resultados
 

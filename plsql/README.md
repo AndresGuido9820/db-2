@@ -9,6 +9,7 @@ Esta carpeta contiene la solución del Punto 1 del trabajo: comparar cursores an
 ```
 
 El contenedor usa Oracle XE 21c y queda disponible en `localhost:1521`.
+La primera ejecución descarga la imagen Docker e inicializa el usuario `dev`; puede tomar varios minutos.
 
 Credenciales:
 
@@ -47,6 +48,12 @@ La salida completa de cada ejecución queda guardada automáticamente en:
 resultados/pipeline_YYYYMMDD_HHMMSS.txt
 ```
 
+El pipeline completo incluye escenarios grandes hasta 10.000.000 de facturas. Si solo se quiere probar la instalación, use primero un script suelto:
+
+```bash
+./run.sh sql/ejemplo_basico.sql
+```
+
 ## Ejecutar scripts sueltos
 
 ```bash
@@ -77,6 +84,20 @@ Donde el segundo parámetro de `cursores.sql`/`bulk.sql` controla la impresión:
 
 - `1`: imprime cada factura.
 - `0`: mide sin imprimir filas.
+
+## Variables útiles
+
+`run.sh` permite cambiar usuario y contraseña con variables de entorno:
+
+```bash
+DB_USER=system DB_PASS=Oracle123 ./run.sh sql/revisar_table.sql
+```
+
+## Dependencias
+
+- Docker y Docker Compose v2.
+- Bash.
+- No requiere paquetes Python para el Punto 1.
 
 ## Detener Oracle
 
