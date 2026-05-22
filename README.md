@@ -65,13 +65,6 @@ cd plsql
 ./run.sh sql/bulk.sql 1000 0
 ```
 
-Credenciales locales:
-
-| Usuario | Password |
-| --- | --- |
-| `system` | `Oracle123` |
-| `dev` | `Dev123` |
-
 Validación rápida:
 
 ```bash
@@ -102,24 +95,14 @@ El notebook `oracle-vectors/notebooks/embeddings_workflow.ipynb` es la fuente pr
 5. Genera embeddings para 8 consultas.
 6. Produce el esquema y los inserts para Oracle Vector.
 
-Credenciales locales:
-
-| Usuario | Password | DSN |
-| --- | --- | --- |
-| `vec` | `Vec123` | `localhost:1522/FREEPDB1` |
-
 Validación rápida:
 
 ```bash
 cd oracle-vectors
-docker exec -i oracle-vectors sqlplus -S vec/Vec123@FREEPDB1 <<'SQL'
-SELECT COUNT(*) AS news_count FROM news_articles;
-SELECT COUNT(*) AS query_count FROM query_vectors;
-EXIT;
-SQL
+./run_query.sh sql/02_vector_queries.sql > /tmp/oracle_vector_check.txt
 ```
 
-El resultado esperado es `news_count = 200` y `query_count = 8`.
+El comando debe terminar sin errores y mostrar resultados para las 8 consultas.
 
 ## Resultados
 

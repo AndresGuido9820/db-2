@@ -38,12 +38,6 @@ El notebook `notebooks/embeddings_workflow.ipynb` documenta el flujo completo:
 El contenedor queda disponible en `localhost:1522`.
 La primera ejecución descarga la imagen Docker e inicializa el usuario `vec`; puede tomar varios minutos.
 
-Credenciales:
-
-| Usuario | Password | DSN |
-| --- | --- | --- |
-| `vec` | `Vec123` | `localhost:1522/FREEPDB1` |
-
 ## Cargar embeddings
 
 ```bash
@@ -91,37 +85,16 @@ El archivo `python/requirements.txt` contiene las dependencias para los dos fluj
 
 Si solo se cargan los JSON ya generados, los scripts de importación usan `oracledb` y `numpy`. `run_embed.sh` instala todo el archivo de requisitos para que el entorno también sirva al notebook.
 
-## Variables útiles
-
-Los scripts usan estos valores por defecto:
-
-```text
-DB_USER=vec
-DB_PASS=Vec123
-DB_DSN=localhost:1522/FREEPDB1
-```
-
-Se pueden sobrescribir así:
-
-```bash
-DB_USER=vec DB_PASS=Vec123 DB_DSN=localhost:1522/FREEPDB1 ./run_embed.sh
-DB_USER=vec DB_PASS=Vec123 ./run_query.sh
-```
-
 ## Validación rápida
 
 ```bash
-docker exec -i oracle-vectors sqlplus -S vec/Vec123@FREEPDB1 <<'SQL'
-SELECT COUNT(*) AS news_count FROM news_articles;
-SELECT COUNT(*) AS query_count FROM query_vectors;
-EXIT;
-SQL
+./run_query.sh sql/02_vector_queries.sql > /tmp/oracle_vector_check.txt
 ```
 
 Resultado esperado:
 
-- `news_count = 200`
-- `query_count = 8`
+- El comando termina sin errores.
+- La salida contiene resultados para las 8 consultas.
 
 ## Detener Oracle
 

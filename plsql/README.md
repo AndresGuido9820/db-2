@@ -11,13 +11,6 @@ Esta carpeta contiene la solución del Punto 1 del trabajo: comparar cursores an
 El contenedor usa Oracle XE 21c y queda disponible en `localhost:1521`.
 La primera ejecución descarga la imagen Docker e inicializa el usuario `dev`; puede tomar varios minutos.
 
-Credenciales:
-
-| Usuario | Password |
-| --- | --- |
-| `system` | `Oracle123` |
-| `dev` | `Dev123` |
-
 ## Scripts principales
 
 | Archivo | Uso |
@@ -84,14 +77,6 @@ Donde el segundo parámetro de `cursores.sql`/`bulk.sql` controla la impresión:
 
 - `1`: imprime cada factura.
 - `0`: mide sin imprimir filas.
-
-## Variables útiles
-
-`run.sh` permite cambiar usuario y contraseña con variables de entorno:
-
-```bash
-DB_USER=system DB_PASS=Oracle123 ./run.sh sql/revisar_table.sql
-```
 
 ## Dependencias
 
