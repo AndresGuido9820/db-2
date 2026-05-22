@@ -1,10 +1,10 @@
 """
-02b_import_embeddings.py
-------------------------
-Lee 200_noticias_con_embeddings.json e inserta directo en Oracle 23ai.
+import_news_embeddings.py
+-------------------------
+Lee embeddings/news_embeddings.json e inserta las noticias en Oracle.
 
 Usage:
-    python 02b_import_embeddings.py
+    python python/import_news_embeddings.py
 """
 
 import array
@@ -18,7 +18,8 @@ DB_USER = "vec"
 DB_PASSWORD = "Vec123"
 DB_DSN = "localhost:1522/FREEPDB1"
 
-JSON_PATH = os.path.join(os.path.dirname(__file__), "200_noticias_con_embeddings.json")
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+JSON_PATH = os.path.join(BASE_DIR, "embeddings", "news_embeddings.json")
 
 
 def to_oracle_vector(vec: list) -> array.array:
@@ -39,7 +40,6 @@ def main():
 
     rows = [
         (
-            str(rec["texto"])[:200].replace("\n", " "),
             str(rec["texto"]),
             to_oracle_vector(rec["embedding"]),
         )
@@ -47,7 +47,7 @@ def main():
     ]
 
     cur.executemany(
-        "INSERT INTO news_articles (title, content, embedding) VALUES (:1, :2, :3)",
+        "INSERT INTO news_articles (content, embedding) VALUES (:1, :2)",
         rows,
     )
     conn.commit()

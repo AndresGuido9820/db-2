@@ -1,0 +1,17 @@
+[run] Salida capturada del escenario 3 como usuario dev.
+
+================================================================
+ESCENARIO 3 -- 100.000 facturas / 1.000.000 detalles
+================================================================
+[generar] Limpiando datos...
+[generar] Insertando 100,000 facturas y 1,000,000 detalles...
+[generar] OK en 70.85 s
+
+ESCENARIO                  | METODO           | LIMIT    | TIEMPO    | INFO
+----------------------------------------------------------------------------------
+100.000 fact / 1.000.000 d | a) CURSORES      | N/A      |     8.99 s  | filas=100000
+100.000 fact / 1.000.000 d | b) BULK COLLECT  | 1000     |     2.73 s  | filas=100000
+100.000 fact / 1.000.000 d | b) BULK COLLECT  | 10000    |      2.8 s  | filas=100000
+100.000 fact / 1.000.000 d | b) BULK COLLECT  | 100000   |      2.4 s  | filas=100000
+100.000 fact / 1.000.000 d | b) BULK COLLECT  | ALL      |     2.81 s  | filas=100000
+================================================================

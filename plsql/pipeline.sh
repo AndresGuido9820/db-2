@@ -4,8 +4,18 @@
 
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
+
 CONTAINER="oracle-plsql"
 CONN="dev/Dev123@//localhost/XE"
+RESULTADOS_DIR="resultados"
+LOG_FILE="$RESULTADOS_DIR/pipeline_$(date +%Y%m%d_%H%M%S).txt"
+
+mkdir -p "$RESULTADOS_DIR"
+exec > >(tee "$LOG_FILE") 2>&1
+
+echo "[pipeline] Salida guardada en $LOG_FILE"
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -33,10 +43,10 @@ separator() {
 # ─── Reset ────────────────────────────────────────────────────────────────────
 
 separator "Borrando tablas anteriores..."
-run_sql scripts/borrar_tablas.sql
+run_sql sql/borrar_tablas.sql
 
 separator "Creando tablas..."
-run_sql scripts/crear_tablas.sql
+run_sql sql/crear_tablas.sql
 
 # ─── Experimentos ─────────────────────────────────────────────────────────────
 # PRINT: 1 = imprime filas (datasets pequenos), 0 = solo tiempo (datasets grandes)
@@ -47,7 +57,7 @@ for N_FACT in 1000 10000 100000 1000000 10000000; do
 
     echo ""
     echo ">>> Insertando datos..."
-    run_sql scripts/insertar_datos.sql "$N_FACT"
+    run_sql sql/insertar_datos.sql "$N_FACT"
 
     # Imprimir filas solo para datasets pequenos
     if [ "$N_FACT" -le 10000 ]; then PRINT=1; else PRINT=0; fi
@@ -62,12 +72,12 @@ for N_FACT in 1000 10000 100000 1000000 10000000; do
 
     echo ""
     echo ">>> [a] Cursores simples (print=$PRINT)..."
-    run_sql scripts/cursores.sql "$PRINT"
+    run_sql sql/cursores.sql "$PRINT"
 
     for LIM in $LIMITS; do
         echo ""
         echo ">>> [b] Bulk COLLECT LIMIT $LIM (print=$PRINT)..."
-        run_sql scripts/bulk.sql "$LIM" "$PRINT"
+        run_sql sql/bulk.sql "$LIM" "$PRINT"
     done
 
 done
@@ -75,7 +85,7 @@ done
 # ─── Tabla comparativa ────────────────────────────────────────────────────────
 
 separator "TABLA COMPARATIVA DE RESULTADOS"
-run_sql scripts/ver_resultados.sql
+run_sql sql/ver_resultados.sql
 
 echo ""
 echo "Pipeline completado."

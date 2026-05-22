@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
+
+cd "$(dirname "${BASH_SOURCE[0]}")"
+
 echo "Starting Oracle 23ai Free (port 1522)..."
 docker compose up -d
 echo "Waiting for Oracle to be healthy..."

@@ -1,3 +1,5 @@
 .env
 *.log
 __pycache__/
+.venv/
+plsql/resultados/pipeline_*.txt

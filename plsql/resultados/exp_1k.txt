@@ -1,0 +1,17 @@
+[run] Salida capturada del escenario 1 como usuario dev.
+
+================================================================
+ESCENARIO 1 -- 1.000 facturas / 10.000 detalles
+================================================================
+[generar] Limpiando datos...
+[generar] Insertando 1,000 facturas y 10,000 detalles...
+[generar] OK en .52 s
+
+ESCENARIO                  | METODO           | LIMIT    | TIEMPO    | INFO
+----------------------------------------------------------------------------------
+1.000 fact / 10.000 det    | a) CURSORES      | N/A      |      .06 s  | filas=1000
+1.000 fact / 10.000 det    | b) BULK COLLECT  | 10       |      .04 s  | filas=1000
+1.000 fact / 10.000 det    | b) BULK COLLECT  | 100      |      .03 s  | filas=1000
+1.000 fact / 10.000 det    | b) BULK COLLECT  | 1000     |      .05 s  | filas=1000
+1.000 fact / 10.000 det    | b) BULK COLLECT  | ALL      |      .03 s  | filas=1000
+================================================================

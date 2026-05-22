@@ -1,8 +1,7 @@
 """
-embed_queries.py
-----------------
-Lee 8_consultas_con_embeddings.json e inserta los vectores
-en la tabla query_vectors de Oracle 23ai.
+import_query_embeddings.py
+--------------------------
+Lee embeddings/query_embeddings.json e inserta las consultas en Oracle.
 """
 
 import array
@@ -16,17 +15,18 @@ DB_USER = "vec"
 DB_PASSWORD = "Vec123"
 DB_DSN = "localhost:1522/FREEPDB1"
 
-JSON_PATH = os.path.join(os.path.dirname(__file__), "8_consultas_con_embeddings.json")
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+JSON_PATH = os.path.join(BASE_DIR, "embeddings", "query_embeddings.json")
 
 LABELS = {
-    1: "Frase exacta - economia",
-    2: "Emocion abstracta - tristeza",
-    3: "Concepto general - animales",
-    4: "Consulta vaga",
-    5: "Pregunta directa - cine",
-    6: "Concepto tecnico - innovacion",
-    7: "Ensalada de palabras - politica",
-    8: "Fuera de contexto - frutas",
+    1: "Query_Economia",
+    2: "Query_Emocion",
+    3: "Query_Animales",
+    4: "Query_Vaga",
+    5: "Query_Evento",
+    6: "Query_Tecnologia",
+    7: "Query_Politica",
+    8: "Query_Frutas",
 }
 
 

@@ -1,0 +1,1847 @@
+
+=== CONSULTA 1: Frase exacta - economia ===
+Texto: "The impact of rising inflation and interest rates on the economy"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  62   .4723 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+  77   .5516 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+  56   .5783 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+ 161   .6217 Asian banks halt dollar's slide The dollar regained
+	     some lost ground against most major currencies on
+	     Wednesday after South Korea and Japan denied they were
+	     planning a sell-off. The dollar suffe
+
+ 142   .6226 Europe asks Asia for euro help European leaders say
+	     Asian states must let their currencies rise against
+	     the US dollar to ease pressure on the euro. The
+	     European single currency has shot up to su
+
+ 189   .6316 UK 'risks breaking golden rule' The UK government will
+	     have to raise taxes or rein in spending if it wants to
+	     avoid breaking its "golden rule", a report suggests.
+	     The rule states that the govern
+
+ 198   .6320 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  83   .6390 Chinese exports rise 25% in 2004 Exports from China
+	     leapt during 2004 over the previous year as the
+	     country continued to show breakneck growth. The spurt
+	     put China's trade surplus - a sore point
+
+ 199   .6417 German business confidence slides German business
+	     confidence fell in February knocking hopes of a speedy
+	     recovery in Europe's largest economy. Munich-based
+	     research institute Ifo said that its c
+
+  78   .6659 SA unveils 'more for all' budget The South African
+	     government has put tax cuts and increased social
+	     spending at the centre of its latest budget. Aiming to
+	     both stir economic growth and aid the c
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  62   .4723 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+  77   .5516 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+  56   .5783 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+ 161   .6217 Asian banks halt dollar's slide The dollar regained
+	     some lost ground against most major currencies on
+	     Wednesday after South Korea and Japan denied they were
+	     planning a sell-off. The dollar suffe
+
+ 142   .6226 Europe asks Asia for euro help European leaders say
+	     Asian states must let their currencies rise against
+	     the US dollar to ease pressure on the euro. The
+	     European single currency has shot up to su
+
+ 189   .6316 UK 'risks breaking golden rule' The UK government will
+	     have to raise taxes or rein in spending if it wants to
+	     avoid breaking its "golden rule", a report suggests.
+	     The rule states that the govern
+
+ 198   .6320 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  83   .6390 Chinese exports rise 25% in 2004 Exports from China
+	     leapt during 2004 over the previous year as the
+	     country continued to show breakneck growth. The spurt
+	     put China's trade surplus - a sore point
+
+ 199   .6417 German business confidence slides German business
+	     confidence fell in February knocking hopes of a speedy
+	     recovery in Europe's largest economy. Munich-based
+	     research institute Ifo said that its c
+
+  78   .6659 SA unveils 'more for all' budget The South African
+	     government has put tax cuts and increased social
+	     spending at the centre of its latest budget. Aiming to
+	     both stir economic growth and aid the c
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  62   .4723 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+  77   .5516 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+  56   .5783 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+ 161   .6217 Asian banks halt dollar's slide The dollar regained
+	     some lost ground against most major currencies on
+	     Wednesday after South Korea and Japan denied they were
+	     planning a sell-off. The dollar suffe
+
+ 142   .6226 Europe asks Asia for euro help European leaders say
+	     Asian states must let their currencies rise against
+	     the US dollar to ease pressure on the euro. The
+	     European single currency has shot up to su
+
+ 189   .6316 UK 'risks breaking golden rule' The UK government will
+	     have to raise taxes or rein in spending if it wants to
+	     avoid breaking its "golden rule", a report suggests.
+	     The rule states that the govern
+
+ 198   .6320 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  83   .6390 Chinese exports rise 25% in 2004 Exports from China
+	     leapt during 2004 over the previous year as the
+	     country continued to show breakneck growth. The spurt
+	     put China's trade surplus - a sore point
+
+ 199   .6417 German business confidence slides German business
+	     confidence fell in February knocking hopes of a speedy
+	     recovery in Europe's largest economy. Munich-based
+	     research institute Ifo said that its c
+
+  78   .6659 SA unveils 'more for all' budget The South African
+	     government has put tax cuts and increased social
+	     spending at the centre of its latest budget. Aiming to
+	     both stir economic growth and aid the c
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  62   .4723 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+  77   .5516 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+  56   .5783 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+ 161   .6217 Asian banks halt dollar's slide The dollar regained
+	     some lost ground against most major currencies on
+	     Wednesday after South Korea and Japan denied they were
+	     planning a sell-off. The dollar suffe
+
+ 142   .6226 Europe asks Asia for euro help European leaders say
+	     Asian states must let their currencies rise against
+	     the US dollar to ease pressure on the euro. The
+	     European single currency has shot up to su
+
+ 189   .6316 UK 'risks breaking golden rule' The UK government will
+	     have to raise taxes or rein in spending if it wants to
+	     avoid breaking its "golden rule", a report suggests.
+	     The rule states that the govern
+
+ 198   .6320 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  83   .6390 Chinese exports rise 25% in 2004 Exports from China
+	     leapt during 2004 over the previous year as the
+	     country continued to show breakneck growth. The spurt
+	     put China's trade surplus - a sore point
+
+ 199   .6417 German business confidence slides German business
+	     confidence fell in February knocking hopes of a speedy
+	     recovery in Europe's largest economy. Munich-based
+	     research institute Ifo said that its c
+
+  78   .6659 SA unveils 'more for all' budget The South African
+	     government has put tax cuts and increased social
+	     spending at the centre of its latest budget. Aiming to
+	     both stir economic growth and aid the c
+
+
+10 rows selected.
+
+
+=== CONSULTA 2: Emocion abstracta - tristeza ===
+Texto: "A deep feeling of sadness, tragedy, and emotional loss"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 148   .8449 Musical treatment for Capra film The classic film It's
+	     A Wonderful Life is to be turned into a musical by the
+	     producer of the controversial hit show Jerry Springer
+	     - The Opera. Frank Capra's 194
+
+  98   .8460 Aaliyah claim dismissed by court Late R&B star
+	     Aaliyah's record company has failed in an attempt to
+	     sue the video producer who booked the ill-fated flight
+	     on which she died in 2001. A New York a
+
+  47   .8465 Willis sues over movie 'injury' Actor Bruce Willis is
+	     suing Revolution Studios over an injury he said he
+	     suffered while making Tears of the Sun. Willis is
+	     seeking medical expenses after he said
+
+ 102   .8580 Mumbai bombs movie postponed The release of a film
+	     about the Mumbai (Bombay) blasts in 1993 has been
+	     postponed following protests by those on trial for the
+	     bombings. Investigating the blasts whi
+
+  76   .8732 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+  22   .8773 Kilroy-Silk quits 'shameful' UKIP Ex-chat show host
+	     Robert Kilroy-Silk has quit the UK Independence Party
+	     and accused it of betraying its supporters. The MEP
+	     said he was ashamed to have joined t
+
+ 174   .8815 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  95   .8841 Hariri killing hits Beirut shares Shares in Solidere,
+	     the Lebanese company founded by assassinated former
+	     prime minister Rafik Hariri, fell 15% in renewed
+	     trading in Beirut. The real estate firm
+
+  85   .8894 More movies head to Sony's PSP Movies Open Water and
+	     Saw are among those to be made available for Sony's
+	     PSP games console. Film studio Lions Gate
+	     entertainment has announced an initial list of
+
+  82   .8910 Brazil plays down Varig rescue The Brazilian
+	     government has played down claims that it could step
+	     in to save the country's biggest airline. Brazil's
+	     airport authority chief Carlos Wilson had cla
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 148   .8449 Musical treatment for Capra film The classic film It's
+	     A Wonderful Life is to be turned into a musical by the
+	     producer of the controversial hit show Jerry Springer
+	     - The Opera. Frank Capra's 194
+
+  98   .8460 Aaliyah claim dismissed by court Late R&B star
+	     Aaliyah's record company has failed in an attempt to
+	     sue the video producer who booked the ill-fated flight
+	     on which she died in 2001. A New York a
+
+  47   .8465 Willis sues over movie 'injury' Actor Bruce Willis is
+	     suing Revolution Studios over an injury he said he
+	     suffered while making Tears of the Sun. Willis is
+	     seeking medical expenses after he said
+
+ 102   .8580 Mumbai bombs movie postponed The release of a film
+	     about the Mumbai (Bombay) blasts in 1993 has been
+	     postponed following protests by those on trial for the
+	     bombings. Investigating the blasts whi
+
+  76   .8732 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+  22   .8773 Kilroy-Silk quits 'shameful' UKIP Ex-chat show host
+	     Robert Kilroy-Silk has quit the UK Independence Party
+	     and accused it of betraying its supporters. The MEP
+	     said he was ashamed to have joined t
+
+ 174   .8815 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  95   .8841 Hariri killing hits Beirut shares Shares in Solidere,
+	     the Lebanese company founded by assassinated former
+	     prime minister Rafik Hariri, fell 15% in renewed
+	     trading in Beirut. The real estate firm
+
+  85   .8894 More movies head to Sony's PSP Movies Open Water and
+	     Saw are among those to be made available for Sony's
+	     PSP games console. Film studio Lions Gate
+	     entertainment has announced an initial list of
+
+  82   .8910 Brazil plays down Varig rescue The Brazilian
+	     government has played down claims that it could step
+	     in to save the country's biggest airline. Brazil's
+	     airport authority chief Carlos Wilson had cla
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 148   .8449 Musical treatment for Capra film The classic film It's
+	     A Wonderful Life is to be turned into a musical by the
+	     producer of the controversial hit show Jerry Springer
+	     - The Opera. Frank Capra's 194
+
+  98   .8460 Aaliyah claim dismissed by court Late R&B star
+	     Aaliyah's record company has failed in an attempt to
+	     sue the video producer who booked the ill-fated flight
+	     on which she died in 2001. A New York a
+
+  47   .8465 Willis sues over movie 'injury' Actor Bruce Willis is
+	     suing Revolution Studios over an injury he said he
+	     suffered while making Tears of the Sun. Willis is
+	     seeking medical expenses after he said
+
+ 102   .8580 Mumbai bombs movie postponed The release of a film
+	     about the Mumbai (Bombay) blasts in 1993 has been
+	     postponed following protests by those on trial for the
+	     bombings. Investigating the blasts whi
+
+  76   .8732 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+  22   .8773 Kilroy-Silk quits 'shameful' UKIP Ex-chat show host
+	     Robert Kilroy-Silk has quit the UK Independence Party
+	     and accused it of betraying its supporters. The MEP
+	     said he was ashamed to have joined t
+
+ 174   .8815 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  95   .8841 Hariri killing hits Beirut shares Shares in Solidere,
+	     the Lebanese company founded by assassinated former
+	     prime minister Rafik Hariri, fell 15% in renewed
+	     trading in Beirut. The real estate firm
+
+  85   .8894 More movies head to Sony's PSP Movies Open Water and
+	     Saw are among those to be made available for Sony's
+	     PSP games console. Film studio Lions Gate
+	     entertainment has announced an initial list of
+
+  82   .8910 Brazil plays down Varig rescue The Brazilian
+	     government has played down claims that it could step
+	     in to save the country's biggest airline. Brazil's
+	     airport authority chief Carlos Wilson had cla
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 148   .8449 Musical treatment for Capra film The classic film It's
+	     A Wonderful Life is to be turned into a musical by the
+	     producer of the controversial hit show Jerry Springer
+	     - The Opera. Frank Capra's 194
+
+  98   .8460 Aaliyah claim dismissed by court Late R&B star
+	     Aaliyah's record company has failed in an attempt to
+	     sue the video producer who booked the ill-fated flight
+	     on which she died in 2001. A New York a
+
+  47   .8465 Willis sues over movie 'injury' Actor Bruce Willis is
+	     suing Revolution Studios over an injury he said he
+	     suffered while making Tears of the Sun. Willis is
+	     seeking medical expenses after he said
+
+ 102   .8580 Mumbai bombs movie postponed The release of a film
+	     about the Mumbai (Bombay) blasts in 1993 has been
+	     postponed following protests by those on trial for the
+	     bombings. Investigating the blasts whi
+
+  76   .8732 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+  22   .8773 Kilroy-Silk quits 'shameful' UKIP Ex-chat show host
+	     Robert Kilroy-Silk has quit the UK Independence Party
+	     and accused it of betraying its supporters. The MEP
+	     said he was ashamed to have joined t
+
+ 174   .8815 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  95   .8841 Hariri killing hits Beirut shares Shares in Solidere,
+	     the Lebanese company founded by assassinated former
+	     prime minister Rafik Hariri, fell 15% in renewed
+	     trading in Beirut. The real estate firm
+
+  85   .8894 More movies head to Sony's PSP Movies Open Water and
+	     Saw are among those to be made available for Sony's
+	     PSP games console. Film studio Lions Gate
+	     entertainment has announced an initial list of
+
+  82   .8910 Brazil plays down Varig rescue The Brazilian
+	     government has played down claims that it could step
+	     in to save the country's biggest airline. Brazil's
+	     airport authority chief Carlos Wilson had cla
+
+
+10 rows selected.
+
+
+=== CONSULTA 3: Concepto general - animales ===
+Texto: "Wild animals, endangered species, and nature conservation"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 149   .7807 Hunt demo at Labour meeting Pro-hunt supporters are
+	     set to protest at Labour's spring conference. The
+	     Countryside Alliance says it expects up to 4,000
+	     supporters to demonstrate against the hunti
+
+ 132   .8312 Green reports shun supply chain Nearly 20% more UK top
+	     250 firms produced non-financial reports on social and
+	     environment issues than last year. But of the 145
+	     companies reporting, 76% didn't ex
+
+  13   .8513 UK firm faces Venezuelan land row Venezuelan
+	     authorities have said they will seize land owned by a
+	     British company as part of President Chavez's agrarian
+	     reform programme. Officials in Cojedes s
+
+  49   .8630 Sydney to host north v south game Sydney will host a
+	     northern versus southern hemisphere charity match in
+	     June or July, the Australian Rugby Union (ARU) said on
+	     Wednesday. The match will include
+
+  75   .8964 Burren awarded Egyptian contracts British energy firm
+	     Burren Energy has been awarded two potentially
+	     lucrative oil exploration contracts in Egypt. The
+	     company successfully bid for the two contra
+
+  76   .9004 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+ 174   .9126 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  67   .9157 UK troops on Ivory Coast standby Downing Street has
+	     confirmed British troops are on standby in case they
+	     need to help evacuate several hundred UK citizens from
+	     Ivory Coast. The news came as it e
+
+ 167   .9162 US crude prices surge above $53 US crude prices have
+	     soared to fresh four-month highs above $53 in the US
+	     as refinery problems propelled petrol prices to an
+	     all-time high. US light sweet crude f
+
+  55   .9174 Progress on new internet domains By early 2005 the net
+	     could have two new domain names. The .post and .travel
+	     net domains have been given preliminary approval by
+	     the net's administrative body. T
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 149   .7807 Hunt demo at Labour meeting Pro-hunt supporters are
+	     set to protest at Labour's spring conference. The
+	     Countryside Alliance says it expects up to 4,000
+	     supporters to demonstrate against the hunti
+
+ 132   .8312 Green reports shun supply chain Nearly 20% more UK top
+	     250 firms produced non-financial reports on social and
+	     environment issues than last year. But of the 145
+	     companies reporting, 76% didn't ex
+
+  13   .8513 UK firm faces Venezuelan land row Venezuelan
+	     authorities have said they will seize land owned by a
+	     British company as part of President Chavez's agrarian
+	     reform programme. Officials in Cojedes s
+
+  49   .8630 Sydney to host north v south game Sydney will host a
+	     northern versus southern hemisphere charity match in
+	     June or July, the Australian Rugby Union (ARU) said on
+	     Wednesday. The match will include
+
+  75   .8964 Burren awarded Egyptian contracts British energy firm
+	     Burren Energy has been awarded two potentially
+	     lucrative oil exploration contracts in Egypt. The
+	     company successfully bid for the two contra
+
+  76   .9004 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+ 174   .9126 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  67   .9157 UK troops on Ivory Coast standby Downing Street has
+	     confirmed British troops are on standby in case they
+	     need to help evacuate several hundred UK citizens from
+	     Ivory Coast. The news came as it e
+
+ 167   .9162 US crude prices surge above $53 US crude prices have
+	     soared to fresh four-month highs above $53 in the US
+	     as refinery problems propelled petrol prices to an
+	     all-time high. US light sweet crude f
+
+  55   .9174 Progress on new internet domains By early 2005 the net
+	     could have two new domain names. The .post and .travel
+	     net domains have been given preliminary approval by
+	     the net's administrative body. T
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 149   .7807 Hunt demo at Labour meeting Pro-hunt supporters are
+	     set to protest at Labour's spring conference. The
+	     Countryside Alliance says it expects up to 4,000
+	     supporters to demonstrate against the hunti
+
+ 132   .8312 Green reports shun supply chain Nearly 20% more UK top
+	     250 firms produced non-financial reports on social and
+	     environment issues than last year. But of the 145
+	     companies reporting, 76% didn't ex
+
+  13   .8513 UK firm faces Venezuelan land row Venezuelan
+	     authorities have said they will seize land owned by a
+	     British company as part of President Chavez's agrarian
+	     reform programme. Officials in Cojedes s
+
+  49   .8630 Sydney to host north v south game Sydney will host a
+	     northern versus southern hemisphere charity match in
+	     June or July, the Australian Rugby Union (ARU) said on
+	     Wednesday. The match will include
+
+  75   .8964 Burren awarded Egyptian contracts British energy firm
+	     Burren Energy has been awarded two potentially
+	     lucrative oil exploration contracts in Egypt. The
+	     company successfully bid for the two contra
+
+  76   .9004 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+ 174   .9126 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  67   .9157 UK troops on Ivory Coast standby Downing Street has
+	     confirmed British troops are on standby in case they
+	     need to help evacuate several hundred UK citizens from
+	     Ivory Coast. The news came as it e
+
+ 167   .9162 US crude prices surge above $53 US crude prices have
+	     soared to fresh four-month highs above $53 in the US
+	     as refinery problems propelled petrol prices to an
+	     all-time high. US light sweet crude f
+
+  55   .9174 Progress on new internet domains By early 2005 the net
+	     could have two new domain names. The .post and .travel
+	     net domains have been given preliminary approval by
+	     the net's administrative body. T
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 149   .7807 Hunt demo at Labour meeting Pro-hunt supporters are
+	     set to protest at Labour's spring conference. The
+	     Countryside Alliance says it expects up to 4,000
+	     supporters to demonstrate against the hunti
+
+ 132   .8312 Green reports shun supply chain Nearly 20% more UK top
+	     250 firms produced non-financial reports on social and
+	     environment issues than last year. But of the 145
+	     companies reporting, 76% didn't ex
+
+  13   .8513 UK firm faces Venezuelan land row Venezuelan
+	     authorities have said they will seize land owned by a
+	     British company as part of President Chavez's agrarian
+	     reform programme. Officials in Cojedes s
+
+  49   .8630 Sydney to host north v south game Sydney will host a
+	     northern versus southern hemisphere charity match in
+	     June or July, the Australian Rugby Union (ARU) said on
+	     Wednesday. The match will include
+
+  75   .8964 Burren awarded Egyptian contracts British energy firm
+	     Burren Energy has been awarded two potentially
+	     lucrative oil exploration contracts in Egypt. The
+	     company successfully bid for the two contra
+
+  76   .9004 Paraguay novel wins US book prize A novel set in 19th
+             century Paraguay has won the $10,000 (Â£5,390) fiction
+	     prize at the US National Book Awards. Lily Tuck's The
+	     News From Paraguay is a fiction
+
+ 174   .9126 Web helps collect aid donations The web is helping aid
+	     agencies gather resources to help cope with the
+	     aftermath of the tsunami disaster. Many people are
+	     making donations via websites or going o
+
+  67   .9157 UK troops on Ivory Coast standby Downing Street has
+	     confirmed British troops are on standby in case they
+	     need to help evacuate several hundred UK citizens from
+	     Ivory Coast. The news came as it e
+
+ 167   .9162 US crude prices surge above $53 US crude prices have
+	     soared to fresh four-month highs above $53 in the US
+	     as refinery problems propelled petrol prices to an
+	     all-time high. US light sweet crude f
+
+  55   .9174 Progress on new internet domains By early 2005 the net
+	     could have two new domain names. The .post and .travel
+	     net domains have been given preliminary approval by
+	     the net's administrative body. T
+
+
+10 rows selected.
+
+
+=== CONSULTA 4: Consulta vaga ===
+Texto: "Things are getting worse very quickly and people are complaining"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 163   .6786 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+ 176   .6955 Junk e-mails on relentless rise Spam traffic is up by
+	     40%, putting the total amount of e-mail that is junk
+	     up to an astonishing 90%. The figures, from e-mail
+	     management firm Email Systems, will
+
+ 192   .6962 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 193   .7412 Small firms 'hit by rising costs' Rising fuel and
+	     materials costs are hitting confidence among the UK's
+	     small manufacturers despite a rise in output, business
+	     lobby group the CBI says. A CBI qua
+
+ 198   .7500 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  43   .7535 New 'yob' targets to be unveiled Fifty new areas
+	     getting special help to fight anti-social behaviour in
+	     England and Wales will be named on Thursday. Ten areas
+	     have already had access to special
+
+  77   .7563 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+ 126   .7581 M&S cuts prices by average of 24% Marks & Spencer has
+	     cut prices in London and the regions by an average of
+	     24%, according to research from a City investment
+	     bank. Dresdner Kleinwort Wasserstein
+
+  56   .7638 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+  62   .7666 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 163   .6786 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+ 176   .6955 Junk e-mails on relentless rise Spam traffic is up by
+	     40%, putting the total amount of e-mail that is junk
+	     up to an astonishing 90%. The figures, from e-mail
+	     management firm Email Systems, will
+
+ 192   .6962 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 193   .7412 Small firms 'hit by rising costs' Rising fuel and
+	     materials costs are hitting confidence among the UK's
+	     small manufacturers despite a rise in output, business
+	     lobby group the CBI says. A CBI qua
+
+ 198   .7500 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  43   .7535 New 'yob' targets to be unveiled Fifty new areas
+	     getting special help to fight anti-social behaviour in
+	     England and Wales will be named on Thursday. Ten areas
+	     have already had access to special
+
+  77   .7563 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+ 126   .7581 M&S cuts prices by average of 24% Marks & Spencer has
+	     cut prices in London and the regions by an average of
+	     24%, according to research from a City investment
+	     bank. Dresdner Kleinwort Wasserstein
+
+  56   .7638 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+  62   .7666 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 163   .6786 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+ 176   .6955 Junk e-mails on relentless rise Spam traffic is up by
+	     40%, putting the total amount of e-mail that is junk
+	     up to an astonishing 90%. The figures, from e-mail
+	     management firm Email Systems, will
+
+ 192   .6962 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 193   .7412 Small firms 'hit by rising costs' Rising fuel and
+	     materials costs are hitting confidence among the UK's
+	     small manufacturers despite a rise in output, business
+	     lobby group the CBI says. A CBI qua
+
+ 198   .7500 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  43   .7535 New 'yob' targets to be unveiled Fifty new areas
+	     getting special help to fight anti-social behaviour in
+	     England and Wales will be named on Thursday. Ten areas
+	     have already had access to special
+
+  77   .7563 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+ 126   .7581 M&S cuts prices by average of 24% Marks & Spencer has
+	     cut prices in London and the regions by an average of
+	     24%, according to research from a City investment
+	     bank. Dresdner Kleinwort Wasserstein
+
+  56   .7638 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+  62   .7666 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+ 163   .6786 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+ 176   .6955 Junk e-mails on relentless rise Spam traffic is up by
+	     40%, putting the total amount of e-mail that is junk
+	     up to an astonishing 90%. The figures, from e-mail
+	     management firm Email Systems, will
+
+ 192   .6962 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 193   .7412 Small firms 'hit by rising costs' Rising fuel and
+	     materials costs are hitting confidence among the UK's
+	     small manufacturers despite a rise in output, business
+	     lobby group the CBI says. A CBI qua
+
+ 198   .7500 S Korea spending boost to economy South Korea will
+	     boost state spending next year in an effort to create
+	     jobs and kick start its sputtering economy. It has
+	     earmarked 100 trillion won ($96bn) for
+
+  43   .7535 New 'yob' targets to be unveiled Fifty new areas
+	     getting special help to fight anti-social behaviour in
+	     England and Wales will be named on Thursday. Ten areas
+	     have already had access to special
+
+  77   .7563 Consumer spending lifts US growth US economic growth
+	     accelerated in the third quarter, helped by strong
+	     consumer spending, official figures have shown. The
+	     economy expanded at an annual rate of
+
+ 126   .7581 M&S cuts prices by average of 24% Marks & Spencer has
+	     cut prices in London and the regions by an average of
+	     24%, according to research from a City investment
+	     bank. Dresdner Kleinwort Wasserstein
+
+  56   .7638 German economy rebounds Germany's economy, the biggest
+	     among the 12 countries sharing the euro, grew at its
+	     fastest rate in four years during 2004, driven by
+	     strong exports. Gross domestic produ
+
+  62   .7666 Bank voted 8-1 for no rate change The decision to keep
+	     interest rates on hold at 4.75% earlier this month was
+	     passed 8-1 by the Bank of England's rate-setting body,
+	     minutes have shown. One membe
+
+
+10 rows selected.
+
+
+=== CONSULTA 5: Pregunta directa - cine ===
+Texto: "Who won the best actor award at the film festival?"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  26   .4026 UK Directors Guild nominees named Martin Scorsese and
+	     Clint Eastwood are among the nominees for the top
+	     prize at the Directors Guild of Great Britain awards,
+	     now in their second year. The Oscar
+
+  74   .4447 Bookmakers back Aviator for Oscar The Aviator has been
+	     tipped by UK bookmakers as the favourite to win the
+	     best film award at this year's Oscars. Ray star Jamie
+	     Foxx is clear favourite in the be
+
+ 106   .4901 Day-Lewis set for Berlin honour Actor Daniel Day-Lewis
+	     is to be presented with an award for his career in
+	     film at the Berlin Film Festival. The 47-year-old,
+	     whose credits include his Oscar-winni
+
+ 104   .5295 Aviator 'creator' in Oscars snub The man who said he
+	     got Oscar-nominated movie The Aviator off the ground
+	     and signed up Leonardo DiCaprio has been shut out of
+	     the Academy Awards race. Charles Ev
+
+  87   .5373 Wine comedy up for six film gongs Sideways, a
+	     wine-tasting comedy starring Paul Giamatti, is up for
+	     six Independent Spirit Awards, the art-house version
+	     of the Oscars. The awards are held on 26
+
+  28   .5802 Godzilla gets Hollywood fame star Movie monster
+	     Godzilla has received a star on Hollywood's Walk of
+	     Fame, honouring both his 50th birthday and the launch
+	     of his 28th film. An actor dressed as th
+
+  88   .5964 De Niro film leads US box office Film star Robert De
+	     Niro has returned to the top of the North American box
+	     office with his film Hide and Seek. The thriller shot
+	     straight to the number one spot
+
+ 188   .6209 Usher leads Billboard nominations R&B singer Usher is
+	     leading the race for the Billboard awards with
+	     nominations in 13 categories, including best male.
+	     Alicia Keys has 12 nominations for the awa
+
+  60   .6419 Actor Scott is new Bond favourite Bookmaker William
+	     Hill has stopped taking bets on who will be the next
+	     James Bond, following a succession of large wagers on
+	     actor Dougray Scott. The firm close
+
+  92   .6802 Cage film's third week at US top Nicolas Cage movie
+	     National Treasure has topped the US and Canada box
+	     office for the third week in a row. National Treasure
+             made $17.1m (Â£8.8m) in ticket sales
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  26   .4026 UK Directors Guild nominees named Martin Scorsese and
+	     Clint Eastwood are among the nominees for the top
+	     prize at the Directors Guild of Great Britain awards,
+	     now in their second year. The Oscar
+
+  74   .4447 Bookmakers back Aviator for Oscar The Aviator has been
+	     tipped by UK bookmakers as the favourite to win the
+	     best film award at this year's Oscars. Ray star Jamie
+	     Foxx is clear favourite in the be
+
+ 106   .4901 Day-Lewis set for Berlin honour Actor Daniel Day-Lewis
+	     is to be presented with an award for his career in
+	     film at the Berlin Film Festival. The 47-year-old,
+	     whose credits include his Oscar-winni
+
+ 104   .5295 Aviator 'creator' in Oscars snub The man who said he
+	     got Oscar-nominated movie The Aviator off the ground
+	     and signed up Leonardo DiCaprio has been shut out of
+	     the Academy Awards race. Charles Ev
+
+  87   .5373 Wine comedy up for six film gongs Sideways, a
+	     wine-tasting comedy starring Paul Giamatti, is up for
+	     six Independent Spirit Awards, the art-house version
+	     of the Oscars. The awards are held on 26
+
+  28   .5802 Godzilla gets Hollywood fame star Movie monster
+	     Godzilla has received a star on Hollywood's Walk of
+	     Fame, honouring both his 50th birthday and the launch
+	     of his 28th film. An actor dressed as th
+
+  88   .5964 De Niro film leads US box office Film star Robert De
+	     Niro has returned to the top of the North American box
+	     office with his film Hide and Seek. The thriller shot
+	     straight to the number one spot
+
+ 188   .6209 Usher leads Billboard nominations R&B singer Usher is
+	     leading the race for the Billboard awards with
+	     nominations in 13 categories, including best male.
+	     Alicia Keys has 12 nominations for the awa
+
+  60   .6419 Actor Scott is new Bond favourite Bookmaker William
+	     Hill has stopped taking bets on who will be the next
+	     James Bond, following a succession of large wagers on
+	     actor Dougray Scott. The firm close
+
+  92   .6802 Cage film's third week at US top Nicolas Cage movie
+	     National Treasure has topped the US and Canada box
+	     office for the third week in a row. National Treasure
+             made $17.1m (Â£8.8m) in ticket sales
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  26   .4026 UK Directors Guild nominees named Martin Scorsese and
+	     Clint Eastwood are among the nominees for the top
+	     prize at the Directors Guild of Great Britain awards,
+	     now in their second year. The Oscar
+
+  74   .4447 Bookmakers back Aviator for Oscar The Aviator has been
+	     tipped by UK bookmakers as the favourite to win the
+	     best film award at this year's Oscars. Ray star Jamie
+	     Foxx is clear favourite in the be
+
+ 106   .4901 Day-Lewis set for Berlin honour Actor Daniel Day-Lewis
+	     is to be presented with an award for his career in
+	     film at the Berlin Film Festival. The 47-year-old,
+	     whose credits include his Oscar-winni
+
+ 104   .5295 Aviator 'creator' in Oscars snub The man who said he
+	     got Oscar-nominated movie The Aviator off the ground
+	     and signed up Leonardo DiCaprio has been shut out of
+	     the Academy Awards race. Charles Ev
+
+  87   .5373 Wine comedy up for six film gongs Sideways, a
+	     wine-tasting comedy starring Paul Giamatti, is up for
+	     six Independent Spirit Awards, the art-house version
+	     of the Oscars. The awards are held on 26
+
+  28   .5802 Godzilla gets Hollywood fame star Movie monster
+	     Godzilla has received a star on Hollywood's Walk of
+	     Fame, honouring both his 50th birthday and the launch
+	     of his 28th film. An actor dressed as th
+
+  88   .5964 De Niro film leads US box office Film star Robert De
+	     Niro has returned to the top of the North American box
+	     office with his film Hide and Seek. The thriller shot
+	     straight to the number one spot
+
+ 188   .6209 Usher leads Billboard nominations R&B singer Usher is
+	     leading the race for the Billboard awards with
+	     nominations in 13 categories, including best male.
+	     Alicia Keys has 12 nominations for the awa
+
+  60   .6419 Actor Scott is new Bond favourite Bookmaker William
+	     Hill has stopped taking bets on who will be the next
+	     James Bond, following a succession of large wagers on
+	     actor Dougray Scott. The firm close
+
+  92   .6802 Cage film's third week at US top Nicolas Cage movie
+	     National Treasure has topped the US and Canada box
+	     office for the third week in a row. National Treasure
+             made $17.1m (Â£8.8m) in ticket sales
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  26   .4026 UK Directors Guild nominees named Martin Scorsese and
+	     Clint Eastwood are among the nominees for the top
+	     prize at the Directors Guild of Great Britain awards,
+	     now in their second year. The Oscar
+
+  74   .4447 Bookmakers back Aviator for Oscar The Aviator has been
+	     tipped by UK bookmakers as the favourite to win the
+	     best film award at this year's Oscars. Ray star Jamie
+	     Foxx is clear favourite in the be
+
+ 106   .4901 Day-Lewis set for Berlin honour Actor Daniel Day-Lewis
+	     is to be presented with an award for his career in
+	     film at the Berlin Film Festival. The 47-year-old,
+	     whose credits include his Oscar-winni
+
+ 104   .5295 Aviator 'creator' in Oscars snub The man who said he
+	     got Oscar-nominated movie The Aviator off the ground
+	     and signed up Leonardo DiCaprio has been shut out of
+	     the Academy Awards race. Charles Ev
+
+  87   .5373 Wine comedy up for six film gongs Sideways, a
+	     wine-tasting comedy starring Paul Giamatti, is up for
+	     six Independent Spirit Awards, the art-house version
+	     of the Oscars. The awards are held on 26
+
+  28   .5802 Godzilla gets Hollywood fame star Movie monster
+	     Godzilla has received a star on Hollywood's Walk of
+	     Fame, honouring both his 50th birthday and the launch
+	     of his 28th film. An actor dressed as th
+
+  88   .5964 De Niro film leads US box office Film star Robert De
+	     Niro has returned to the top of the North American box
+	     office with his film Hide and Seek. The thriller shot
+	     straight to the number one spot
+
+ 188   .6209 Usher leads Billboard nominations R&B singer Usher is
+	     leading the race for the Billboard awards with
+	     nominations in 13 categories, including best male.
+	     Alicia Keys has 12 nominations for the awa
+
+  60   .6419 Actor Scott is new Bond favourite Bookmaker William
+	     Hill has stopped taking bets on who will be the next
+	     James Bond, following a succession of large wagers on
+	     actor Dougray Scott. The firm close
+
+  92   .6802 Cage film's third week at US top Nicolas Cage movie
+	     National Treasure has topped the US and Canada box
+	     office for the third week in a row. National Treasure
+             made $17.1m (Â£8.8m) in ticket sales
+
+
+10 rows selected.
+
+
+=== CONSULTA 6: Concepto tecnico - innovacion ===
+Texto: "Next generation digital software and mobile internet innovations"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  10   .5519 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+   3   .6142 Mobile gig aims to rock 3G Forget about going to a
+	     crowded bar to enjoy a gig by the latest darlings of
+	     the music press. Now you could also be at a live gig
+	     on your mobile, via the latest third
+
+ 108   .6378 Hotspot users gain free net calls People using
+	     wireless net hotspots will soon be able to make free
+	     phone calls as well as surf the net. Wireless provider
+	     Broadreach and net telephony firm Skype
+
+  52   .6427 UK broadband gets speed injection Broadband's rapid
+	     rise continues apace as speeds gear up a notch. An
+	     eight megabit service has been launched by internet
+	     service provider UK Online. It is 16 ti
+
+  61   .6450 Mobiles rack up 20 years of use Mobile phones in the
+	     UK are celebrating their 20th anniversary this
+	     weekend. Britain's first mobile phone call was made
+	     across the Vodafone network on 1 January 1
+
+ 177   .6476 Sony PSP tipped as a 'must-have' Sony's Playstation
+	     Portable is the top UK gadget for 2005, according to a
+	     round-up of ultimate gizmos compiled by Stuff
+	     Magazine. It beats the iPod into second p
+
+ 163   .6499 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+  86   .6670 Vodafone appoints new Japan boss Vodafone has drafted
+	     in its UK chief executive William Morrow to take
+	     charge of its troubled Japanese operation. Mr Morrow
+	     will succeed Shiro Tsuda as president
+
+ 192   .6710 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 158   .6739 Microsoft takes on desktop search Microsoft has
+	     entered the desktop search fray, releasing a test
+	     version of its tool to find documents, e-mails and
+	     other files on a PC hard drive. The beta prog
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  10   .5519 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+   3   .6142 Mobile gig aims to rock 3G Forget about going to a
+	     crowded bar to enjoy a gig by the latest darlings of
+	     the music press. Now you could also be at a live gig
+	     on your mobile, via the latest third
+
+ 108   .6378 Hotspot users gain free net calls People using
+	     wireless net hotspots will soon be able to make free
+	     phone calls as well as surf the net. Wireless provider
+	     Broadreach and net telephony firm Skype
+
+  52   .6427 UK broadband gets speed injection Broadband's rapid
+	     rise continues apace as speeds gear up a notch. An
+	     eight megabit service has been launched by internet
+	     service provider UK Online. It is 16 ti
+
+  61   .6450 Mobiles rack up 20 years of use Mobile phones in the
+	     UK are celebrating their 20th anniversary this
+	     weekend. Britain's first mobile phone call was made
+	     across the Vodafone network on 1 January 1
+
+ 177   .6476 Sony PSP tipped as a 'must-have' Sony's Playstation
+	     Portable is the top UK gadget for 2005, according to a
+	     round-up of ultimate gizmos compiled by Stuff
+	     Magazine. It beats the iPod into second p
+
+ 163   .6499 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+  86   .6670 Vodafone appoints new Japan boss Vodafone has drafted
+	     in its UK chief executive William Morrow to take
+	     charge of its troubled Japanese operation. Mr Morrow
+	     will succeed Shiro Tsuda as president
+
+ 192   .6710 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 158   .6739 Microsoft takes on desktop search Microsoft has
+	     entered the desktop search fray, releasing a test
+	     version of its tool to find documents, e-mails and
+	     other files on a PC hard drive. The beta prog
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  10   .5519 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+   3   .6142 Mobile gig aims to rock 3G Forget about going to a
+	     crowded bar to enjoy a gig by the latest darlings of
+	     the music press. Now you could also be at a live gig
+	     on your mobile, via the latest third
+
+ 108   .6378 Hotspot users gain free net calls People using
+	     wireless net hotspots will soon be able to make free
+	     phone calls as well as surf the net. Wireless provider
+	     Broadreach and net telephony firm Skype
+
+  52   .6427 UK broadband gets speed injection Broadband's rapid
+	     rise continues apace as speeds gear up a notch. An
+	     eight megabit service has been launched by internet
+	     service provider UK Online. It is 16 ti
+
+  61   .6450 Mobiles rack up 20 years of use Mobile phones in the
+	     UK are celebrating their 20th anniversary this
+	     weekend. Britain's first mobile phone call was made
+	     across the Vodafone network on 1 January 1
+
+ 177   .6476 Sony PSP tipped as a 'must-have' Sony's Playstation
+	     Portable is the top UK gadget for 2005, according to a
+	     round-up of ultimate gizmos compiled by Stuff
+	     Magazine. It beats the iPod into second p
+
+ 163   .6499 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+  86   .6670 Vodafone appoints new Japan boss Vodafone has drafted
+	     in its UK chief executive William Morrow to take
+	     charge of its troubled Japanese operation. Mr Morrow
+	     will succeed Shiro Tsuda as president
+
+ 192   .6710 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 158   .6739 Microsoft takes on desktop search Microsoft has
+	     entered the desktop search fray, releasing a test
+	     version of its tool to find documents, e-mails and
+	     other files on a PC hard drive. The beta prog
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  10   .5519 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+   3   .6142 Mobile gig aims to rock 3G Forget about going to a
+	     crowded bar to enjoy a gig by the latest darlings of
+	     the music press. Now you could also be at a live gig
+	     on your mobile, via the latest third
+
+ 108   .6378 Hotspot users gain free net calls People using
+	     wireless net hotspots will soon be able to make free
+	     phone calls as well as surf the net. Wireless provider
+	     Broadreach and net telephony firm Skype
+
+  52   .6427 UK broadband gets speed injection Broadband's rapid
+	     rise continues apace as speeds gear up a notch. An
+	     eight megabit service has been launched by internet
+	     service provider UK Online. It is 16 ti
+
+  61   .6450 Mobiles rack up 20 years of use Mobile phones in the
+	     UK are celebrating their 20th anniversary this
+	     weekend. Britain's first mobile phone call was made
+	     across the Vodafone network on 1 January 1
+
+ 177   .6476 Sony PSP tipped as a 'must-have' Sony's Playstation
+	     Portable is the top UK gadget for 2005, according to a
+	     round-up of ultimate gizmos compiled by Stuff
+	     Magazine. It beats the iPod into second p
+
+ 163   .6499 Broadband challenges TV viewing The number of
+	     Europeans with broadband has exploded over the past 12
+	     months, with the web eating into TV viewing habits,
+	     research suggests. Just over 54 million p
+
+  86   .6670 Vodafone appoints new Japan boss Vodafone has drafted
+	     in its UK chief executive William Morrow to take
+	     charge of its troubled Japanese operation. Mr Morrow
+	     will succeed Shiro Tsuda as president
+
+ 192   .6710 Broadband takes on TV viewing The number of Europeans
+	     with broadband has exploded over the past 12 months,
+	     with the web eating into TV viewing habits, research
+	     suggests. Just over 54 million peo
+
+ 158   .6739 Microsoft takes on desktop search Microsoft has
+	     entered the desktop search fray, releasing a test
+	     version of its tool to find documents, e-mails and
+	     other files on a PC hard drive. The beta prog
+
+
+10 rows selected.
+
+
+=== CONSULTA 7: Ensalada de palabras - politica ===
+Texto: "Election parliament prime minister voting campaign"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  73   .5154 Blair to face MPs amid feud talk Tony Blair faces his
+	     first prime minister's questions of 2005 after a week
+	     of renewed speculation about his relationship with
+	     Gordon Brown. Meanwhile, the chance
+
+   1   .5244 UK youth 'interested' in politics The majority of
+	     young people are interested in politics, holding
+	     "strong opinions" on policies and have a "keen
+	     appetite" for direct action. Research undertaken
+
+   5   .5640 Tories 'would cut number of MPs' The Conservative
+	     Party would cut the number of MPs by about one-fifth
+	     if they were elected, Tory leader Michael Howard has
+	     said. The plan forms part of the party
+
+ 194   .6117 Election 'could be terror target' Terrorists might try
+	     to target the UK in the run-up to the election,
+	     London's most senior police officer has said. Sir Ian
+	     Blair said terror groups would rememb
+
+ 197   .6225 Immigration to be election issue Immigration and
+	     asylum have normally been issues politicians from the
+	     big parties have tiptoed around at election time. But
+	     no longer. Both Labour and the Tories
+
+   4   .6406 Lib Dems' new election PR chief The Lib Dems have
+	     appointed a senior figure from BT to be the party's
+	     new communications chief for their next general
+	     election effort. Sandy Walkington will now w
+
+  71   .6443 Parties' plans for council tax Anger at council tax
+	     rises spilled over into mass protests in 2003, when
+	     the average English bill rose 12.9%. Pensioners'
+	     protests spread - some marched, others si
+
+  68   .6547 Regiments' group in poll move A regiments' campaign
+	     group is to target nine marginal Labour seats at the
+	     General Election. Save the Scottish Regiments will
+	     also field a candidate against Armed F
+
+  41   .6578 Chancellor rallies Labour voters Gordon Brown has
+	     issued a rallying cry, telling supporters the "stakes
+	     are too high" to stay at home or protest vote in the
+	     forthcoming general election. The cha
+
+  32   .6788 Civil servants in strike ballot The UK's biggest civil
+	     service union is to ballot its 290,000 members on
+	     strikes in protest at government plans to extend their
+	     pension age to 65. The Public and
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  73   .5154 Blair to face MPs amid feud talk Tony Blair faces his
+	     first prime minister's questions of 2005 after a week
+	     of renewed speculation about his relationship with
+	     Gordon Brown. Meanwhile, the chance
+
+   1   .5244 UK youth 'interested' in politics The majority of
+	     young people are interested in politics, holding
+	     "strong opinions" on policies and have a "keen
+	     appetite" for direct action. Research undertaken
+
+   5   .5640 Tories 'would cut number of MPs' The Conservative
+	     Party would cut the number of MPs by about one-fifth
+	     if they were elected, Tory leader Michael Howard has
+	     said. The plan forms part of the party
+
+ 194   .6117 Election 'could be terror target' Terrorists might try
+	     to target the UK in the run-up to the election,
+	     London's most senior police officer has said. Sir Ian
+	     Blair said terror groups would rememb
+
+ 197   .6225 Immigration to be election issue Immigration and
+	     asylum have normally been issues politicians from the
+	     big parties have tiptoed around at election time. But
+	     no longer. Both Labour and the Tories
+
+   4   .6406 Lib Dems' new election PR chief The Lib Dems have
+	     appointed a senior figure from BT to be the party's
+	     new communications chief for their next general
+	     election effort. Sandy Walkington will now w
+
+  71   .6443 Parties' plans for council tax Anger at council tax
+	     rises spilled over into mass protests in 2003, when
+	     the average English bill rose 12.9%. Pensioners'
+	     protests spread - some marched, others si
+
+  68   .6547 Regiments' group in poll move A regiments' campaign
+	     group is to target nine marginal Labour seats at the
+	     General Election. Save the Scottish Regiments will
+	     also field a candidate against Armed F
+
+  41   .6578 Chancellor rallies Labour voters Gordon Brown has
+	     issued a rallying cry, telling supporters the "stakes
+	     are too high" to stay at home or protest vote in the
+	     forthcoming general election. The cha
+
+  32   .6788 Civil servants in strike ballot The UK's biggest civil
+	     service union is to ballot its 290,000 members on
+	     strikes in protest at government plans to extend their
+	     pension age to 65. The Public and
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  73   .5154 Blair to face MPs amid feud talk Tony Blair faces his
+	     first prime minister's questions of 2005 after a week
+	     of renewed speculation about his relationship with
+	     Gordon Brown. Meanwhile, the chance
+
+   1   .5244 UK youth 'interested' in politics The majority of
+	     young people are interested in politics, holding
+	     "strong opinions" on policies and have a "keen
+	     appetite" for direct action. Research undertaken
+
+   5   .5640 Tories 'would cut number of MPs' The Conservative
+	     Party would cut the number of MPs by about one-fifth
+	     if they were elected, Tory leader Michael Howard has
+	     said. The plan forms part of the party
+
+ 194   .6117 Election 'could be terror target' Terrorists might try
+	     to target the UK in the run-up to the election,
+	     London's most senior police officer has said. Sir Ian
+	     Blair said terror groups would rememb
+
+ 197   .6225 Immigration to be election issue Immigration and
+	     asylum have normally been issues politicians from the
+	     big parties have tiptoed around at election time. But
+	     no longer. Both Labour and the Tories
+
+   4   .6406 Lib Dems' new election PR chief The Lib Dems have
+	     appointed a senior figure from BT to be the party's
+	     new communications chief for their next general
+	     election effort. Sandy Walkington will now w
+
+  71   .6443 Parties' plans for council tax Anger at council tax
+	     rises spilled over into mass protests in 2003, when
+	     the average English bill rose 12.9%. Pensioners'
+	     protests spread - some marched, others si
+
+  68   .6547 Regiments' group in poll move A regiments' campaign
+	     group is to target nine marginal Labour seats at the
+	     General Election. Save the Scottish Regiments will
+	     also field a candidate against Armed F
+
+  41   .6578 Chancellor rallies Labour voters Gordon Brown has
+	     issued a rallying cry, telling supporters the "stakes
+	     are too high" to stay at home or protest vote in the
+	     forthcoming general election. The cha
+
+  32   .6788 Civil servants in strike ballot The UK's biggest civil
+	     service union is to ballot its 290,000 members on
+	     strikes in protest at government plans to extend their
+	     pension age to 65. The Public and
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  73   .5154 Blair to face MPs amid feud talk Tony Blair faces his
+	     first prime minister's questions of 2005 after a week
+	     of renewed speculation about his relationship with
+	     Gordon Brown. Meanwhile, the chance
+
+   1   .5244 UK youth 'interested' in politics The majority of
+	     young people are interested in politics, holding
+	     "strong opinions" on policies and have a "keen
+	     appetite" for direct action. Research undertaken
+
+   5   .5640 Tories 'would cut number of MPs' The Conservative
+	     Party would cut the number of MPs by about one-fifth
+	     if they were elected, Tory leader Michael Howard has
+	     said. The plan forms part of the party
+
+ 194   .6117 Election 'could be terror target' Terrorists might try
+	     to target the UK in the run-up to the election,
+	     London's most senior police officer has said. Sir Ian
+	     Blair said terror groups would rememb
+
+ 197   .6225 Immigration to be election issue Immigration and
+	     asylum have normally been issues politicians from the
+	     big parties have tiptoed around at election time. But
+	     no longer. Both Labour and the Tories
+
+   4   .6406 Lib Dems' new election PR chief The Lib Dems have
+	     appointed a senior figure from BT to be the party's
+	     new communications chief for their next general
+	     election effort. Sandy Walkington will now w
+
+  71   .6443 Parties' plans for council tax Anger at council tax
+	     rises spilled over into mass protests in 2003, when
+	     the average English bill rose 12.9%. Pensioners'
+	     protests spread - some marched, others si
+
+  68   .6547 Regiments' group in poll move A regiments' campaign
+	     group is to target nine marginal Labour seats at the
+	     General Election. Save the Scottish Regiments will
+	     also field a candidate against Armed F
+
+  41   .6578 Chancellor rallies Labour voters Gordon Brown has
+	     issued a rallying cry, telling supporters the "stakes
+	     are too high" to stay at home or protest vote in the
+	     forthcoming general election. The cha
+
+  32   .6788 Civil servants in strike ballot The UK's biggest civil
+	     service union is to ballot its 290,000 members on
+	     strikes in protest at government plans to extend their
+	     pension age to 65. The Public and
+
+
+10 rows selected.
+
+
+=== CONSULTA 8: Fuera de contexto - frutas ===
+Texto: "Tropical fruits like apples, bananas, and oranges"
+>> EXACTO
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  57   .8048 Orange colour clash set for court A row over the
+	     colour orange could hit the courts after mobile phone
+	     giant Orange launched action against a new mobile
+	     venture from Easyjet's founder. Orange sa
+
+ 173   .8329 Rochus shocks Coria in Auckland Top seed Guillermo
+	     Coria went out of the Heineken Open in Auckland on
+	     Thursday with a surprise loss to Olivier Rochus of
+	     Belgium. Coria lost the semi-final 6-4 6-
+
+ 186   .8341 Apple sues to stop product leaks Computer firm Apple
+	     has issued a lawsuit to prevent online leaks of
+	     information about future products. The lawsuit,
+	     against an unidentified individual, comes jus
+
+  34   .8450 Kraft cuts snack ads for children Kraft plans to cut
+	     back on advertising of products like Oreo cookies and
+	     sugary Kool-Aid drinks as part of an effort to promote
+	     healthy eating. The largest US f
+
+  10   .8725 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+ 111   .8730 Apple makes blogs reveal sources Apple has won its
+	     legal fight to make three bloggers reveal who told
+	     them about unreleased products. The bid to unmask the
+	     employees leaking information was laun
+
+ 105   .8760 Slim PlayStation triples sales Sony PlayStation 2's
+	     slimmer shape has proved popular with UK gamers, with
+	     50,000 sold in its first week on sale. Sales have
+	     tripled since launch, outstripping Mic
+
+ 130   .8763 Lesotho textile workers lose jobs Six foreign-owned
+	     textile factories have closed in Lesotho, leaving
+	     6,650 garment workers jobless, union officers told the
+	     AP news agency. Factory Workers Union
+
+  58   .8768 Latin America sees strong growth Latin America's
+	     economy grew by 5.5% in 2004, its best performance
+	     since 1980, while exports registered their best
+	     performance in two decades. The United Nations
+
+  27   .8817 China now top trader with Japan China overtook the US
+	     to become Japan's biggest trading partner in 2004,
+	     according to numbers released by Japan's Finance
+	     Ministry on Wednesday. China accounted f
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 90pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  57   .8048 Orange colour clash set for court A row over the
+	     colour orange could hit the courts after mobile phone
+	     giant Orange launched action against a new mobile
+	     venture from Easyjet's founder. Orange sa
+
+ 173   .8329 Rochus shocks Coria in Auckland Top seed Guillermo
+	     Coria went out of the Heineken Open in Auckland on
+	     Thursday with a surprise loss to Olivier Rochus of
+	     Belgium. Coria lost the semi-final 6-4 6-
+
+ 186   .8341 Apple sues to stop product leaks Computer firm Apple
+	     has issued a lawsuit to prevent online leaks of
+	     information about future products. The lawsuit,
+	     against an unidentified individual, comes jus
+
+  34   .8450 Kraft cuts snack ads for children Kraft plans to cut
+	     back on advertising of products like Oreo cookies and
+	     sugary Kool-Aid drinks as part of an effort to promote
+	     healthy eating. The largest US f
+
+  10   .8725 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+ 111   .8730 Apple makes blogs reveal sources Apple has won its
+	     legal fight to make three bloggers reveal who told
+	     them about unreleased products. The bid to unmask the
+	     employees leaking information was laun
+
+ 105   .8760 Slim PlayStation triples sales Sony PlayStation 2's
+	     slimmer shape has proved popular with UK gamers, with
+	     50,000 sold in its first week on sale. Sales have
+	     tripled since launch, outstripping Mic
+
+ 130   .8763 Lesotho textile workers lose jobs Six foreign-owned
+	     textile factories have closed in Lesotho, leaving
+	     6,650 garment workers jobless, union officers told the
+	     AP news agency. Factory Workers Union
+
+  58   .8768 Latin America sees strong growth Latin America's
+	     economy grew by 5.5% in 2004, its best performance
+	     since 1980, while exports registered their best
+	     performance in two decades. The United Nations
+
+  27   .8817 China now top trader with Japan China overtook the US
+	     to become Japan's biggest trading partner in 2004,
+	     according to numbers released by Japan's Finance
+	     Ministry on Wednesday. China accounted f
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 70pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  57   .8048 Orange colour clash set for court A row over the
+	     colour orange could hit the courts after mobile phone
+	     giant Orange launched action against a new mobile
+	     venture from Easyjet's founder. Orange sa
+
+ 173   .8329 Rochus shocks Coria in Auckland Top seed Guillermo
+	     Coria went out of the Heineken Open in Auckland on
+	     Thursday with a surprise loss to Olivier Rochus of
+	     Belgium. Coria lost the semi-final 6-4 6-
+
+ 186   .8341 Apple sues to stop product leaks Computer firm Apple
+	     has issued a lawsuit to prevent online leaks of
+	     information about future products. The lawsuit,
+	     against an unidentified individual, comes jus
+
+  34   .8450 Kraft cuts snack ads for children Kraft plans to cut
+	     back on advertising of products like Oreo cookies and
+	     sugary Kool-Aid drinks as part of an effort to promote
+	     healthy eating. The largest US f
+
+  10   .8725 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+ 111   .8730 Apple makes blogs reveal sources Apple has won its
+	     legal fight to make three bloggers reveal who told
+	     them about unreleased products. The bid to unmask the
+	     employees leaking information was laun
+
+ 105   .8760 Slim PlayStation triples sales Sony PlayStation 2's
+	     slimmer shape has proved popular with UK gamers, with
+	     50,000 sold in its first week on sale. Sales have
+	     tripled since launch, outstripping Mic
+
+ 130   .8763 Lesotho textile workers lose jobs Six foreign-owned
+	     textile factories have closed in Lesotho, leaving
+	     6,650 garment workers jobless, union officers told the
+	     AP news agency. Factory Workers Union
+
+  58   .8768 Latin America sees strong growth Latin America's
+	     economy grew by 5.5% in 2004, its best performance
+	     since 1980, while exports registered their best
+	     performance in two decades. The United Nations
+
+  27   .8817 China now top trader with Japan China overtook the US
+	     to become Japan's biggest trading partner in 2004,
+	     according to numbers released by Japan's Finance
+	     Ministry on Wednesday. China accounted f
+
+
+10 rows selected.
+
+>> TARGET ACCURACY 50pct
+
+  ID	DIST SNIPPET
+---- ------- -------------------------------------------------------
+  57   .8048 Orange colour clash set for court A row over the
+	     colour orange could hit the courts after mobile phone
+	     giant Orange launched action against a new mobile
+	     venture from Easyjet's founder. Orange sa
+
+ 173   .8329 Rochus shocks Coria in Auckland Top seed Guillermo
+	     Coria went out of the Heineken Open in Auckland on
+	     Thursday with a surprise loss to Olivier Rochus of
+	     Belgium. Coria lost the semi-final 6-4 6-
+
+ 186   .8341 Apple sues to stop product leaks Computer firm Apple
+	     has issued a lawsuit to prevent online leaks of
+	     information about future products. The lawsuit,
+	     against an unidentified individual, comes jus
+
+  34   .8450 Kraft cuts snack ads for children Kraft plans to cut
+	     back on advertising of products like Oreo cookies and
+	     sugary Kool-Aid drinks as part of an effort to promote
+	     healthy eating. The largest US f
+
+  10   .8725 Moving mobile improves golf swing A mobile phone that
+	     recognises and responds to movements has been launched
+	     in Japan. The motion-sensitive phone - officially
+	     titled the V603SH - was developed b
+
+ 111   .8730 Apple makes blogs reveal sources Apple has won its
+	     legal fight to make three bloggers reveal who told
+	     them about unreleased products. The bid to unmask the
+	     employees leaking information was laun
+
+ 105   .8760 Slim PlayStation triples sales Sony PlayStation 2's
+	     slimmer shape has proved popular with UK gamers, with
+	     50,000 sold in its first week on sale. Sales have
+	     tripled since launch, outstripping Mic
+
+ 130   .8763 Lesotho textile workers lose jobs Six foreign-owned
+	     textile factories have closed in Lesotho, leaving
+	     6,650 garment workers jobless, union officers told the
+	     AP news agency. Factory Workers Union
+
+  58   .8768 Latin America sees strong growth Latin America's
+	     economy grew by 5.5% in 2004, its best performance
+	     since 1980, while exports registered their best
+	     performance in two decades. The United Nations
+
+  27   .8817 China now top trader with Japan China overtook the US
+	     to become Japan's biggest trading partner in 2004,
+	     according to numbers released by Japan's Finance
+	     Ministry on Wednesday. China accounted f
+
+
+10 rows selected.
