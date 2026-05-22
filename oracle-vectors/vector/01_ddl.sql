@@ -1,11 +1,10 @@
 -- Oracle 23ai Free  –  Vector Search schema
 DROP TABLE IF EXISTS news_articles;
 DROP TABLE IF EXISTS query_vectors;
+SET DEFINE OFF;
 
 CREATE TABLE news_articles (
     id        NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    title     VARCHAR2(200 CHAR),
-    topic     VARCHAR2(100),
     content   CLOB,
     embedding VECTOR(384, FLOAT32)
 );
